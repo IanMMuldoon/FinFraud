@@ -1,1 +1,2 @@
-# FinFraud
+# Directions
+* Click on master.ipynb
